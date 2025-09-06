@@ -11,7 +11,7 @@ Follow these steps to set up the project on your local machine.
 
 Clone the repository to your local machine using Git:
 
-git clone https://github.com/abdul786rasool/smart-os.git
+git clone (https://github.com/Shivaprasad47/AI_OS_Assistant)
 cd smart-os
 
 ### 2. Create and Activate a Virtual Environment
@@ -85,4 +85,5 @@ Smart-OS is a chatbot-driven application designed to control your operating syst
 For detailed setup instructions, please refer to the [Setup Instructions](#setup-instructions) section in this repository.
 
 Demo video : https://youtu.be/XrhToK-Hyx4
+
 
